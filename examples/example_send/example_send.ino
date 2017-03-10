@@ -1,4 +1,4 @@
-#include <mcp_can.h>
+#include <sw_can.h>
 #include <SPI.h>
 
 const int SPI_CS_PIN = 78; // PB23
